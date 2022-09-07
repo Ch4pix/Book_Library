@@ -20,9 +20,6 @@ public:
 	Book();
 	void setBook(string _book_name, string _author, int _isbn);
 	void addToCopyList(Copy _copy);
-	void searchCopyList(Book book);
-	void retireCopy(Copy _copy, Member _member);
-	void returnCopy(Copy _copy);
 };
 
 #endif
