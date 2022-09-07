@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Salva\Desktop\Libreria\Libreria\Model\</FILEPATH>
+      <FILENAME>Copy.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "Copy::edition_id" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>Copy::{ctor}</FUNCTION>
+    <DECORATED>??0Copy@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Copy::edition_id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
